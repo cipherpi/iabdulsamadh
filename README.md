@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iabdulsamadh
 - 👀 I’m interested in cybersecurity 
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate with Python challengers and learners 
+- 💞️ I’m looking to collaborate with Python/ cybersec challengers and learners 
 - 📫 You can reach me out at abdul_samadh@outlook.com
 
 <!---
